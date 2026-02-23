@@ -8,15 +8,8 @@ Add 3–6 prediction images here (saved after inference).
 Place them in: `assets/predictions/`
 
 <p align="center">
-  <img src="assets/predictions/sample_01.jpg" width="32%"/>
-  <img src="assets/predictions/sample_02.jpg" width="32%"/>
-  <img src="assets/predictions/sample_03.jpg" width="32%"/>
-</p>
-
-<p align="center">
-  <img src="assets/predictions/sample_04.jpg" width="32%"/>
-  <img src="assets/predictions/sample_05.jpg" width="32%"/>
-  <img src="assets/predictions/sample_06.jpg" width="32%"/>
+  <img src="prediction/sample_01.png" width="32%"/>
+  <img src="prediction/sample_02.png" width="32%"/>
 </p>
 
 ## Results (Validation)
