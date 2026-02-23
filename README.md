@@ -50,10 +50,3 @@ pip install ultralytics opencv-python pyyaml pandas matplotlib
 
 Predict on an image:
 yolo predict model=weights/best.pt source=path/to/image.jpg imgsz=640 conf=0.25
-
-## Notes / Improvements
-- Berries are tiny objects; performance often improves with higher resolution (e.g., imgsz=1024) or tiling/sliced inference.
-- For higher accuracy, try a larger backbone (e.g., yolov8s) and compare mAP + MAE.
-
-## Dataset / Attribution
-Dataset was exported from Roboflow Universe. Please follow the dataset license and citation shown on the dataset page (“Cite this Project”).
