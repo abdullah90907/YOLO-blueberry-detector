@@ -4,8 +4,6 @@ This project fine-tunes **YOLOv8** to detect **individual blueberries** (many sm
 The goal is a practical baseline toward **yield estimation / precision agriculture** pipelines (e.g., drone or orchard imagery workflows).
 
 ## Sample Predictions
-Add 3–6 prediction images here (saved after inference).  
-Place them in: `assets/predictions/`
 
 <p align="center">
   <img src="prediction/sample_01.png" width="32%"/>
