@@ -1,0 +1,6 @@
+path: /content/dataset
+train: train/images
+val: valid/images
+names:
+- '1'
+nc: 1
